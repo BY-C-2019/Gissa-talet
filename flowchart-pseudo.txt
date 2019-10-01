@@ -1,0 +1,16 @@
+Slumpa tal x mellan 1-100
+Skapa räknare i för antal försök och sätt till 0
+Hälsningsfras och instruktion
+Gissning y från användaren
+OM y är en siffra
+    Öka i med 1
+    OM y är lika x skriv ut "Grattis du gissade rätt!"
+        Gå vidare
+    OM y är över x, skriv ut "Fel. Talet är mindre."
+        Låt användaren gissa igen.
+        Öka i med 1
+    OM y är under x, skriv ut "Fel. Talet är större."
+        Låt användaren gissa igen.
+        Öka i med 1
+Skriv ut antal försök (i) som krävdes
+Avsluta prorgrammet
